@@ -1,0 +1,25 @@
+
+img	{
+	width: 30%;
+	height: 400px;
+	float: left;
+	margin: 1.66%;
+	object-fit: cover;
+
+}
+
+/*because 3 images all 30% are together as 90%*/
+/*and they left and right borders make up the rest of the space 10%:6=1.66*/
+
+p	{
+	font-family: pacifico;
+	font-size: 50px;
+	margin-left: 1.66%;
+}
+
+hr	{
+	border-style: dashed;
+	border-width: 2px;
+	margin: auto 1.66%;
+	color: #00cc99;
+}
